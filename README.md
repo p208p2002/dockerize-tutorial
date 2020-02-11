@@ -1,5 +1,5 @@
 # Dockerize tutorial
-[使用Docker包裝你的應用](https://blog.thecodingday.com/2020/02/%e4%bd%bf%e7%94%a8docker%e5%8c%85%e8%a3%9d%e4%bd%a0%e7%9a%84%e6%87%89%e7%94%a8-python-flask/)
+[使用Docker包裝你的應用](http://jumper.thecodingday.com/?goto=aHR0cHM6Ly9ibG9nLnRoZWNvZGluZ2RheS5jb20vMjAyMC8wMi8lZTQlYmQlYmYlZTclOTQlYThkb2NrZXIlZTUlOGMlODUlZTglYTMlOWQlZTQlYmQlYTAlZTclOWElODQlZTYlODclODklZTclOTQlYTgtcHl0aG9uLWZsYXNrLw)
 
 ## Usage
 ```
